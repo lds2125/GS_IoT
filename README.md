@@ -34,7 +34,7 @@ Exibir o resultado em formato JSON pronto para uso em sistemas externos
 
 🔗 Integração com a API .NET (RWD)
 
-A IA foi configurada para gerar o JSON exatamente no mesmo formato utilizado pela API em .NET desenvolvida na disciplina de RWD.
+A IA foi configurada para gerar o JSON exatamente no mesmo formato utilizado pela API em .NET.
 
 Isso permite:
 
@@ -62,3 +62,10 @@ Python + Google Colab
 Modelo generativo para recomendação
 
 Formato JSON compatível com o backend .NET
+
+
+Luan Dantas dos Santos RM 559004 
+
+Matheus Henrique Germano Reis RM 555861
+
+Enzo Dias Alfaia Mendes 558438
